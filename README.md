@@ -11,8 +11,8 @@ Langfuse Latency Monitor is a Python tool for simulating, monitoring, and analyz
 ## Setup
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
-   cd LangfuseLatencyMonitor
+   git clone https://github.com/nishanttomar21/langfuse-latency-monitor.git
+   cd langfuse-latency-monitor
    ```
 2. **Install dependencies:**
    ```bash
